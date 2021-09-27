@@ -6,7 +6,6 @@ console.log(tabuada);
 
 //2 (n-32)/1.8
 let n=[54, 78, 56, 98, 0, 12, 11, 37];
-let total;
 n.forEach(function(item){
 console.log((item-32)/1.8)
 })
